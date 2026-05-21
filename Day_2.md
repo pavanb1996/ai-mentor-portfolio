@@ -22,7 +22,7 @@ Each mentor scores the OTHER mentor's six prompts on the 5-criterion rubric:
 | Criterion | 0-2 | What you check |
 |-----------|-----|----------------|
 | Clarity |1 | Single intent, no "do everything" prompts |
-| Context | | Audience + situation supplied |
+| Context | 0| Audience + situation supplied |
 | Specificity | | Concrete subject + scope |
 | Format | | Output shape requested |
 | Verification | | Citations or follow-up verify step |
